@@ -6,7 +6,7 @@ import fallbackimg from '../assets/fallbackimg.jpg'
 function Article({article}) {
   return (
   <>
-    <Col md = {4} className =" mb-4"  key = {article.article_id}>
+    <Col md = {4} className =" mb-4" >
                 <Card className = "m-auto" style={{ width: '18rem' }}>
       <Card.Img variant="top" src={article.image_url || fallbackimg}  style ={{height:'200px', objectFit:'cover'}}/>
       <Card.Body>
