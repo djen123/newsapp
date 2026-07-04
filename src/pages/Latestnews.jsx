@@ -66,7 +66,7 @@ function Latestnews() {
         </InputGroup>
       </div>
 
-      {/* News Cards */}
+   
       <Row>
         {articles.map((article) => (
           <Col md={4} key={article.article_id} className="mb-4">

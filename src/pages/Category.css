@@ -1,0 +1,23 @@
+.category-page {
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+.category-heading {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 20px;
+  border-left: 5px solid #bb0000;
+  padding-left: 10px;
+}
+
+.category-card {
+  margin-bottom: 20px;
+  border: none;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+}
+
+.category-img {
+  height: 180px;
+  object-fit: cover;
+}
