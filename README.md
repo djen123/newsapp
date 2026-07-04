@@ -1,6 +1,6 @@
 # React + Vite
 
-A modern, BBC‑inspired news application built with React, React‑Bootstrap, and the NewsData.io API.
+A modern, news application built with React, React‑Bootstrap, and the NewsData.io API.
 It features category‑based browsing, breaking news sections, headline layouts, and a clean responsive UI.
 
 # Features
